@@ -1,49 +1,49 @@
-// colors
+// Updated colors
 [data-dark="false"] {
-  --primary: #0a85cc; // Darkened the primary for more distinction
-  --secondary: #59b2e6; // Darkened the secondary a bit as well
-  --text: #333333; // A dark gray which is often considered more comfortable for reading than pure black
-  --background: #f2f2f2; // Slight off-white to reduce brightness 
-  --background-alt: #e6e6e6; // A tad darker for alternate backgrounds
-  --light-gray: #d4d4d4; // Made it a bit darker for contrast
-  --gray: #808080;
-  --overlay: #00000030; // Increased the opacity for a stronger overlay
+  --primary: #0dafea;
+  --secondary: #6bc9fc;
+  --text: #0a0a0a;
+  --background: #f9f9f9;
+  --background-alt: #f1f1f1;
+  --light-gray: #dcdcdc;
+  --gray: #8a8a8a;
+  --overlay: #0000001f;
 }
 
 [data-dark="true"] {
-  --primary: #0ea5e9;
-  --secondary: #075985;
-  --text: #e0e0e0; // Off-white for a softer look in dark mode
-  --background: #181818;
-  --background-alt: #222222; // A tad lighter than before
-  --light-gray: #3b3b3b; // Darkened it slightly for better contrast
-  --gray: #808080;
-  --overlay: #ffffff20; // Increased the opacity for a stronger overlay in dark mode
+  --primary: #0c96d2;
+  --secondary: #065674;
+  --text: #e9e9e9;
+  --background: #161616;
+  --background-alt: #202020;
+  --light-gray: #3c3c3c;
+  --gray: #7a7a7a;
+  --overlay: #ffffff0f;
 }
 
 :root {
-  // font families
-  --title: "Barlow", sans-serif;
+  // Slightly varied font families
+  --title: "Barlow Semi Condensed", sans-serif;
   --heading: "Barlow", sans-serif;
   --body: "Barlow", sans-serif;
   --code: "Roboto Mono", monospace;
 
-  // font sizes
-  --medium: 1rem;
-  --large: 1.2rem;
-  --xl: 1.4rem;
-  --xxl: 1.6rem;
+  // Adjusted font sizes
+  --medium: 1.05rem;
+  --large: 1.25rem;
+  --xl: 1.5rem;
+  --xxl: 1.75rem;
 
-  // font weights
+  // Font weights
   --thin: 200;
   --regular: 400;
   --semi-bold: 500;
-  --bold: 600;
+  --bold: 700; // Increased boldness
 
-  // text line spacing
-  --spacing: 1.6; // Reduced to a more common spacing for readability
+  // Improved text line spacing
+  --spacing: 1.5;
 
-  // effects
-  --rounded: 4px; // Slightly more rounded for modern aesthetics
-  --shadow: 0 3px 12px -3px var(--overlay); // Subtle change for a bit deeper shadow
+  // Enhanced effects
+  --rounded: 4px; // Slightly rounder corners
+  --shadow: 0 2px 12px -1px var(--overlay); // A more natural shadow
 }
