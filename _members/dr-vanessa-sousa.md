@@ -7,7 +7,7 @@ aliases:
   - V Sousa
   - V. Sousa Moreno
 links:
-  home-page: https://janesmith.com
+  home-page: https://kclpure.kcl.ac.uk/portal/en/persons/vanessa.sousa
   orcid: 0000-0001-8713-9213
 ---
 
