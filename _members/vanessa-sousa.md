@@ -2,6 +2,7 @@
 name: Dr Vanessa Sousa
 image: images/photo.jpg
 role: PI
+description: PI
 aliases:
   - V Sousa
   - V. Sousa Moreno
