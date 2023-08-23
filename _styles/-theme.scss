@@ -1,49 +1,48 @@
-// Updated colors
+ // colors
 [data-dark="false"] {
-  --primary: #0dafea;
-  --secondary: #6bc9fc;
-  --text: #0a0a0a;
-  --background: #f9f9f9;
-  --background-alt: #f1f1f1;
-  --light-gray: #dcdcdc;
-  --gray: #8a8a8a;
-  --overlay: #0000001f;
+  --primary: #0ea5e9;
+  --secondary: #7dd3fc;
+  --text: #000000;
+  --background: #ffffff;
+  --background-alt: #fafafa;
+  --light-gray: #e0e0e0;
+  --gray: #808080;
+  --overlay: #00000020;
 }
-
 [data-dark="true"] {
-  --primary: #0c96d2;
-  --secondary: #065674;
-  --text: #e9e9e9;
-  --background: #161616;
-  --background-alt: #202020;
-  --light-gray: #3c3c3c;
-  --gray: #7a7a7a;
-  --overlay: #ffffff0f;
+  --primary: #0ea5e9;
+  --secondary: #075985;
+  --text: #ffffff;
+  --background: #181818;
+  --background-alt: #1c1c1c;
+  --light-gray: #404040;
+  --gray: #808080;
+  --overlay: #ffffff10;
 }
 
 :root {
-  // Slightly varied font families
-  --title: "Barlow Semi Condensed", sans-serif;
+  // font families
+  --title: "Barlow", sans-serif;
   --heading: "Barlow", sans-serif;
   --body: "Barlow", sans-serif;
   --code: "Roboto Mono", monospace;
 
-  // Adjusted font sizes
-  --medium: 1.05rem;
-  --large: 1.25rem;
-  --xl: 1.5rem;
-  --xxl: 1.75rem;
+  // font sizes
+  --medium: 1rem;
+  --large: 1.2rem;
+  --xl: 1.4rem;
+  --xxl: 1.6rem;
 
-  // Font weights
+  // font weights
   --thin: 200;
   --regular: 400;
   --semi-bold: 500;
-  --bold: 700; // Increased boldness
+  --bold: 600;
 
-  // Improved text line spacing
-  --spacing: 1.5;
+  // text line spacing
+  --spacing: 2;
 
-  // Enhanced effects
-  --rounded: 4px; // Slightly rounder corners
-  --shadow: 0 2px 12px -1px var(--overlay); // A more natural shadow
+  // effects
+  --rounded: 3px;
+  --shadow: 0 0 10px 0 var(--overlay);
 }
