@@ -16,9 +16,7 @@ Our lab is fun, outgoing group of diverse individuals. Including people from all
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are always looking for new members! Please see below the current PhD/post-doctoral projects advertised by us!
 
 {% include section.html %}
 
