@@ -1,19 +1,19 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Patient and Public Involvement Panel
+  subtitle: Increasing awareness of poor oral health and infective endocarditis
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: By running a bi-annual focus group on the link between infective endocarditis and oral health we get public perceptions on the disease and what more can be done.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Package
+- title: Peri-implantitis research
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Rawan and Norah both investigate peri-implantitis, finding potential biomarkers for the causation of the disease.
   repo: greenelab/lab-website-template
   tags:
     - resource
@@ -28,11 +28,11 @@
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: Metagenomic Analyses
+  subtitle: Combination of R, python and Bash scripts to analyse bacterial genomes.
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Take a look at our Github to see what code we are using to analyse saliva, heart valve and stool bacterial DNA.
   repo: greenelab/lab-website-template
   tags:
     - software
