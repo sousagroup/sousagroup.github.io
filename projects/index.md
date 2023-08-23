@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We currently are investigating two different systemic diseases, peri-implantitis and infective endocarditis, and their link to oral health. As part of our infective endocarditis study we have started a patient and public involvement panel, click below to find out more!
 
 {% include tags.html tags="publication, resource, website" %}
 
