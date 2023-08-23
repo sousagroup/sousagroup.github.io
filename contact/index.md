@@ -51,15 +51,15 @@ If you find our research intriguing or wish to delve deeper into the connections
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Our lab at KCL is committed to unravelling the intricate ties between oral health and systemic diseases. Through rigorous research, we aim to advance medical understanding and offer holistic approaches to health.
+Our lab at KCL is deeply invested in understanding the complex interplay between oral health and systemic diseases. We believe that by investigating this relationship, we can pave the way for groundbreaking medical discoveries and contribute to holistic health approaches.
 {% endcapture %}
 
 {% capture col2 %}
-If you're a student, researcher, or healthcare professional interested in contributing to our mission, we always welcome new perspectives. Your expertise can help shape a healthier future.
+Join our cause! Whether you are a student, a seasoned researcher, or a curious mind, your perspective is valuable. Dive into this research journey with us and let's work together towards a brighter, healthier future.
 {% endcapture %}
 
 {% capture col3 %}
-Subscribe to our newsletter or follow our social media channels to stay updated with our latest findings, publications, and events. Knowledge shared is a step towards a healthier world.
+Stay in the loop with our latest research, findings, and publications. Consider subscribing to our newsletter or following us on our social media channels. Together, we can spread knowledge and make strides in the world of health research.
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
