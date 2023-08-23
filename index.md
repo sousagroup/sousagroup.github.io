@@ -3,7 +3,7 @@
 
 # Oralbiome's Website
 
-An engaging 1-3 sentence description of your lab.
+We are a lab based at KCL in London looking to understand the links between oral health and systemic diseases.
 
 {% include section.html %}
 
