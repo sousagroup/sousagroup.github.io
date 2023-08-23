@@ -1,18 +1,14 @@
 # site properties and page defaults
 title: Oralbiome
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+subtitle: Vanessa Sousa Lab
+description: We are a lab based at KCL in London looking to understand the links between oral health and systemic diseases.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@Oralbiome.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: Oralbiome
-  twitter: Oralbiome
-  youtube: Oralbiome
+  email: joseph.falconer@kcl.ac.uk
+  github: TheStrawberryCow
 
 ### jekyll settings
 
