@@ -8,7 +8,7 @@ footer: images/background.jpg
 # site social media and other links
 links:
   email: joseph.falconer@kcl.ac.uk
-  github: TheStrawberryCow
+  github: https://github.com/TheStrawberryCow/AD12122-Dissertation-Scripts
 
 ### jekyll settings
 
