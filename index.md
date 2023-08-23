@@ -26,7 +26,7 @@ We are combining medical, dental and state of the the art -omics approaches to i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/publication_image.png"
   link="research"
   title="Our Research"
   text=text
