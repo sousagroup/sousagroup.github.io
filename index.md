@@ -49,7 +49,7 @@ We are currently focussed on the link between oral health status and systemic di
 
 {%
   include feature.html
-  image="images/hearttooth.png"
+  image="images/Hearttooth.png"
   link="projects"
   title="Our Projects"
   flip=true
