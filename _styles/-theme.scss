@@ -1,3 +1,7 @@
+---
+---
+
+// colors
 [data-dark="false"] {
   --primary: #0ea5e9;
   --secondary: #7dd3fc;
@@ -8,7 +12,6 @@
   --gray: #808080;
   --overlay: #00000020;
 }
-
 [data-dark="true"] {
   --primary: #0ea5e9;
   --secondary: #075985;
@@ -21,23 +24,28 @@
 }
 
 :root {
+  // font families
   --title: "Barlow", sans-serif;
   --heading: "Barlow", sans-serif;
-  --body: "Roboto", sans-serif;
+  --body: "Barlow", sans-serif;
   --code: "Roboto Mono", monospace;
-  
-  --medium: 1rem;
+
+  // font sizes
+  --medium: 1.2rem;
   --large: 1.4rem;
-  --xl: 1.8rem;
-  --xxl: 2.2rem;
-  
+  --xl: 1.6rem;
+  --xxl: 1.8rem;
+
+  // font weights
   --thin: 200;
   --regular: 400;
   --semi-bold: 500;
   --bold: 600;
-  
-  --line-height: 1.5;
-  
-  --rounded: 5px;
-  --shadow: 0 0 8px 0 var(--overlay);
+
+  // text line spacing
+  --spacing: 1.5;
+
+  // effects
+  --rounded: 3px;
+  --shadow: 0 0 10px 0 var(--overlay);
 }
