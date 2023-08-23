@@ -1,5 +1,5 @@
 ---
-title: Unraveling Connections
+title: Contact
 nav:
   order: 5
   tooltip: Reach out to our team
