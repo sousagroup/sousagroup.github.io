@@ -16,7 +16,7 @@ If you have any feedback or suggestions about our website, feel free to open an 
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LINK_TO_LICENSE).
+This project is licensed under the (Insert lisence here)
 
 ## 🤖 Maintainers
 
