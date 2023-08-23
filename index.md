@@ -49,7 +49,7 @@ We are currently focussed on the link between oral health status and systemic di
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/hearttooth.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +74,7 @@ Meet our growing group made up of health-care professionals and two blokes who h
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/teamstock.jpeg"
   link="team"
   title="Our Team"
   text=text
