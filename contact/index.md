@@ -6,9 +6,9 @@ nav:
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
-
+<span style="font-size: 20px;">
 If you find our research intriguing or wish to delve deeper into the connections between oral health and systemic diseases, please reach out to us.
-
+</span>
 <div class="button-group">
   {%
     include button.html
