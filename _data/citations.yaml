@@ -292,23 +292,25 @@
   orcid: 0000-0003-3772-3221
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: https://doi.org/10.1111/clr.12834
+  title: 'Peri-implant and periodontal microbiome diversity in aggressive periodontitis
+    patients: a pilot study'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
+  - Vanessa Sousa
+  - Luigi Nibali
+  - David Spratt
+  - Jose Dopico
+  - Nikos Mardas
+  - Aviva Petrie
+  - Nikolaos Donos
+  publisher: Clinical Oral Implants Research
+  date: ''
+  link: https://onlinelibrary.wiley.com/doi/10.1111/clr.12834
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: In order to investigate the bacterial microbiome in periodontal and
+    peri-implant biofirms from aggressive periodontitis patients, 91 plaque samples
+    were collected and analysed using 16S rRNA gene amplification and sequencing.
+  image: https://onlinelibrary.wiley.com/cms/asset/d55f8b03-9d08-4eed-9bda-ba5c0dd24336/clr12834-fig-0002-m.png
   buttons:
   - type: manubot
     link: https://greenelab.github.io/meta-review/
