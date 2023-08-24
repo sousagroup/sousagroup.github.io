@@ -20,5 +20,5 @@ This project is licensed under the (Insert lisence here)
 
 ## 🤖 Maintainers
 
-- [Joseph Falconer](https://github.com/inserthere) - Co-Developer
+- [Joseph Falconer](https://twitter.com/josephfalconer8)) - Co-Developer
 - [Arif Ayman](https://github.com/TheStrawberryCow) - Co-Developer
