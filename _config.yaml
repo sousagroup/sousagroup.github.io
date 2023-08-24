@@ -4,6 +4,8 @@ subtitle: Vanessa Sousa Lab
 description: We are a lab based at KCL in London looking to understand the links between oral health and systemic diseases.
 header: images/tealbackground.png
 footer: images/tealfooter.png
+header-dark: false
+footer-dark: false
 
 # site social media and other links
 links:
