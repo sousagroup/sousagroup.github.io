@@ -3,7 +3,9 @@
 
 # About Us
 
+<span style="font-size: 18px;">
 We are a lab based at KCL in London looking to understand the links between oral health and systemic diseases. By integrating advanced multi-omics analyses and principles of systems biology, we aim to uncover the deeper, interconnected mechanisms that tie dental well-being to the broader landscape of human health.
+</span>
 
 {% include section.html %}
 
