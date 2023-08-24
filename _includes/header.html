@@ -6,7 +6,9 @@
 {% assign jpg = "images/logo.jpg" | file_exists %}
 {% assign logo = svg | default: png | default: jpg | default: nil %}
 
-<header class="background" style="--image: url('{{ image }}')">
+<header
+  class="background"
+  style="--image: url('{{ image }}')"
   {% if dark == true or dark == false %}
     data-dark="{{ dark }}"
   {% endif %}
@@ -14,8 +16,6 @@
     data-big
   {% endif %}
 >
-
-
   <a href="{{ "/" | relative_url }}" class="home">
     {% if logo %}
       <span class="logo">
