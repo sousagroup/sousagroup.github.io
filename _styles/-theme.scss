@@ -3,21 +3,21 @@
 
 // colors
 [data-dark="false"] {
-  --primary: #7d0208;
-  --secondary: #de3750;
+  --primary: #0ea5e9;
+  --secondary: #7dd3fc;
   --text: #000000;
-  --background: #ebfcf7;
-  --background-alt: #d7faf0;
+  --background: #ffffff;
+  --background-alt: #fafafa;
   --light-gray: #e0e0e0;
   --gray: #808080;
-  --overlay: #ffffff;
+  --overlay: #00000020;
 }
 [data-dark="true"] {
-  --primary: #fcdbd9;
-  --secondary: #5c0105;
+  --primary: #0ea5e9;
+  --secondary: #075985;
   --text: #ffffff;
-  --background: #120302;
-  --background-alt: #182025;
+  --background: #181818;
+  --background-alt: #1c1c1c;
   --light-gray: #404040;
   --gray: #808080;
   --overlay: #ffffff10;
@@ -31,10 +31,10 @@
   --code: "Roboto Mono", monospace;
 
   // font sizes
-  --medium: 1.2rem;
-  --large: 1.4rem;
-  --xl: 1.6rem;
-  --xxl: 1.8rem;
+  --medium: 1rem;
+  --large: 1.2rem;
+  --xl: 1.4rem;
+  --xxl: 1.6rem;
 
   // font weights
   --thin: 200;
@@ -43,13 +43,9 @@
   --bold: 600;
 
   // text line spacing
-  --spacing: 1.5;
-  --shadow: none;
-
-
-
+  --spacing: 2;
 
   // effects
   --rounded: 3px;
-  
+  --shadow: 0 0 10px 0 var(--overlay);
 }
