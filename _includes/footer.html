@@ -1,4 +1,14 @@
+{% assign image = page.footer | default: site.footer | relative_url %}
+{% assign dark = page.footer-dark | is_nil: site.footer-dark | is_nil: true %}
 
+<footer
+  class="background"
+  style="--image: url('{{ image }}')"
+  {% if dark == true or dark == false %}
+    data-dark="{{ dark }}"
+  {% endif %}
+  data-size="wide"
+>
   <!--
     <div>
       Extra details like contact info or address
