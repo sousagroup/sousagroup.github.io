@@ -10,7 +10,6 @@
   --background-alt: #d7faf0;
   --light-gray: #e0e0e0;
   --gray: #808080;
-  --overlay: #00000020;
 }
 [data-dark="true"] {
   --primary: #fcdbd9;
@@ -44,6 +43,8 @@
 
   // text line spacing
   --spacing: 1.5;
+  --shadow: 0 0 10px 0 var(--overlay);
+
 
   // effects
   --rounded: 3px;
