@@ -1,8 +1,8 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: https://doi.org/10.1111/clr.12834
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: In order to investigate the bacterial microbiome in periodontal and peri-implant biofirms from aggressive periodontitis patients, 91 plaque samples were collected and analysed using 16S rRNA gene amplification and sequencing.
+  date: 2016-05-11
+  image: https://onlinelibrary.wiley.com/cms/asset/d55f8b03-9d08-4eed-9bda-ba5c0dd24336/clr12834-fig-0002-m.png
   buttons:
     - type: manubot
       link: https://greenelab.github.io/meta-review/
