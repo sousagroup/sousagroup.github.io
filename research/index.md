@@ -14,7 +14,7 @@ The link between oral health and systemic disease is well publicised in an acade
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Patterns of subgingival microbiota in different periodontal phenotypes" style="rich" %}
 
 {% include section.html %}
 
