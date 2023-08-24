@@ -1,82 +1,295 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.3390/ijerph192114085
+  title: 'Biomarker Expression of Peri-Implantitis Lesions before and after Treatment:
+    A Systematic Review'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Haniyeh Moaven
+  - Annesi Giacaman
+  - "V\xEDctor Beltr\xE1n"
+  - Ye Han Sam
+  - Daniel Betancur
+  - Giuseppe Mainas
+  - Seyed Ali Tarjomani
+  - Nikolaos Donos
+  - Vanessa Sousa
+  publisher: International Journal of Environmental Research and Public Health
+  date: '2022-10-28'
+  link: https://doi.org/gsm2zs
+  orcid: 0000-0003-3772-3221
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.3390/ijerph192114088
+  title: Oral Microcosm Biofilms Grown under Conditions Progressing from Peri-Implant
+    Health, Peri-Implant Mucositis, and Peri-Implantitis
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Vanessa Sousa
+  - Dave Spratt
+  - Mehmet Davrandi
+  - Nikos Mardas
+  - "V\xEDctor Beltr\xE1n"
+  - Nikolaos Donos
+  publisher: International Journal of Environmental Research and Public Health
+  date: '2022-10-28'
+  link: https://doi.org/gsm2zt
+  orcid: 0000-0003-3772-3221
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.3390/ijms231710033
+  title: The Effect of Microcosm Biofilm Decontamination on Surface Topography, Chemistry,
+    and Biocompatibility Dynamics of Implant Titanium Surfaces
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Vanessa Sousa
+  - Nikos Mardas
+  - Dave Spratt
+  - Iman A. Hassan
+  - Nick J. Walters
+  - "V\xEDctor Beltr\xE1n"
+  - Nikolaos Donos
+  publisher: International Journal of Molecular Sciences
+  date: '2022-09-02'
+  link: https://doi.org/gsm2zv
+  orcid: 0000-0003-3772-3221
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.3390/ijms23179802
+  title: 'Molecular Biomarkers in Peri-Implant Health and Disease: A Cross-Sectional
+    Pilot Study'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Alejandra Chaparro
+  - "V\xEDctor Beltr\xE1n"
+  - Daniel Betancur
+  - Ye-Han Sam
+  - Haniyeh Moaven
+  - Ali Tarjomani
+  - Nikolaos Donos
+  - Vanessa Sousa
+  publisher: International Journal of Molecular Sciences
+  date: '2022-08-29'
+  link: https://doi.org/gsm2zw
+  orcid: 0000-0003-3772-3221
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:doi.org/10.3390/ijerph19148388
+  title: Histological and Immunohistochemical Analysis of Peri-Implant Soft and Hard
+    Tissues in Patients with Peri-Implantitis
+  authors:
+  - Valentina Flores
+  - Bernardo Venegas
+  - Wendy Donoso
+  - Camilo Ulloa
+  - Alejandra Chaparro
+  - Vanessa Sousa
+  - "V\xEDctor Beltr\xE1n"
+  publisher: International Journal of Environmental Research and Public Health
+  date: '2022-07-08'
+  link: https://doi.org/gsm2zx
+  orcid: 0000-0003-3772-3221
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ekir.2022.06.016
+  title: 'High Prevalence of Periodontal Disease Observed in Patients on Hemodialysis:
+    A Call for Equitable Access to Dental Care'
+  authors:
+  - Kajal Kotecha
+  - Rebecca Ridout
+  - Mira Shah
+  - David W. Randall
+  - Vanessa Sousa
+  - Ravindra Rajakariar
+  - Kieran McCafferty
+  - Muhammad M. Yaqoob
+  - Lochana Nanayakkara
+  publisher: Kidney International Reports
+  date: '2022-09-01'
+  link: https://doi.org/gsm2zz
+  orcid: 0000-0003-3772-3221
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41415-022-3989-0
+  title: 'Public involvement in research: exploring periodontal and peri-implant health
+    and disease in partnership with Perio@RLH patient forum members'
+  authors:
+  - Vanessa Sousa
+  - Haniyeh Moaven
+  - Amieth Yogarajah
+  - Daniel Betancur
+  - "V\xEDctor Beltr\xE1n"
+  - Nara Lara-Pompa
+  - Lochana Nanayakkara
+  - Nikolaos Donos
+  publisher: British Dental Journal
+  date: '2022-03-25'
+  link: https://doi.org/gsm2z2
+  orcid: 0000-0003-3772-3221
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jdent.2021.103912
+  title: Patterns of subgingival microbiota in different periodontal phenotypes
+  authors:
+  - L Nibali
+  - V Sousa
+  - M Davrandi
+  - LS Liu
+  - D Spratt
+  - N Donos
+  publisher: Journal of Dentistry
+  date: '2022-02-01'
+  link: https://doi.org/gsm2z3
+  orcid: 0000-0003-3772-3221
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fcimb.2021.696432
+  title: 'Salivary Microbial Dysbiosis Is Associated With Peri-Implantitis: A Case-Control
+    Study in a Brazilian Population'
+  authors:
+  - Debora Pallos
+  - Vanessa Sousa
+  - Magda Feres
+  - Belen Retamal-Valdes
+  - Tsute Chen
+  - Mike Curtis
+  - Richardson Mondego Boaventura
+  - Marcia Hiromi Tanaka
+  - "Gustavo Vargas da Silva Salom\xE3o"
+  - Louise Zanella
+  - Tania Regina Tozetto-Mendoza
+  - Gabriela Schwab
+  - Lucas Augusto Moyses Franco
+  - Ester Cerdeira Sabino
+  - Paulo Henrique Braz-Silva
+  - Jamil Awad Shibli
+  publisher: Frontiers in Cellular and Infection Microbiology
+  date: '2022-01-05'
+  link: https://doi.org/gsm2z4
+  orcid: 0000-0003-3772-3221
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4067/S0717-95022021000300683
+  title: Collagen Quantification in Peri-implant Soft Tissues in Human Peri-Implantitis
+    Lesions
+  authors:
+  - Valentina Flores
+  - Bernardo Venegas
+  - Wendy Donoso
+  - Camilo Ulloa
+  - Alejandra Chaparro
+  - Vanessa Sousa
+  - "V\xEDctor Beltr\xE1n"
+  publisher: International Journal of Morphology
+  date: '2021-06-01'
+  link: https://doi.org/gsm2z5
+  orcid: 0000-0003-3772-3221
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jcpe.13330
+  title: Differences in the periodontal microbiome of successfully treated and persistent
+    aggressive periodontitis
+  authors:
+  - Luigi Nibali
+  - Vanessa Sousa
+  - Mehmet Davrandi
+  - David Spratt
+  - Qumasha Alyahya
+  - Jose Dopico
+  - Nikos Donos
+  publisher: Journal of Clinical Periodontology
+  date: '2020-06-26'
+  link: https://doi.org/gsm2z6
+  orcid: 0000-0003-3772-3221
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17126/JORALRES.2020.025
+  title: 'In situ endoscopic analysis of bone microstructure and vascularization in
+    the post-explantation cavities from patients diagnosed with advanced peri-implantitis
+    lesions: A preliminary report.'
+  authors:
+  - "V\xEDctor Beltr\xE1n"
+  - "Pablo Acu\xF1a-Mardones"
+  - Vanessa Sousa
+  publisher: Journal of Oral Research
+  date: '2020-09-22'
+  link: https://doi.org/gsm2z7
+  orcid: 0000-0003-3772-3221
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1155/2019/2797210
+  title: "In Situ Endoscopic Analysis of Vascular Supply and Regenerated Alveolar\
+    \ Bone in <i>\u03B2</i>-TCP Grafted and Ungrafted Postextraction Sites before\
+    \ Implant Placement: A Prospective Case Control Study"
+  authors:
+  - "V\xEDctor Beltr\xE1n"
+  - Marcio Lazzarini
+  - Rodolfo Figueroa
+  - Vanessa Sousa
+  - Wilfried Engelke
+  publisher: BioMed Research International
+  date: '2019-11-06'
+  link: https://doi.org/gsm2z8
+  orcid: 0000-0003-3772-3221
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/clr.12834
+  title: 'Peri-implant and periodontal microbiome diversity in aggressive periodontitis
+    patients: a pilot study'
+  authors:
+  - Vanessa Sousa
+  - Luigi Nibali
+  - David Spratt
+  - Jose Dopico
+  - Nikos Mardas
+  - Aviva Petrie
+  - Nikolaos Donos
+  publisher: Clinical Oral Implants Research
+  date: '2016-05-11'
+  link: https://doi.org/gsb45n
+  orcid: 0000-0003-3772-3221
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/clr.12684
+  title: A systematic review of implant outcomes in treated periodontitis patients
+  authors:
+  - Vanessa Sousa
+  - Nikos Mardas
+  - Bruna Farias
+  - Aviva Petrie
+  - Ian Needleman
+  - David Spratt
+  - Nikolaos Donos
+  publisher: Clinical Oral Implants Research
+  date: '2015-09-18'
+  link: https://doi.org/gsb45k
+  orcid: 0000-0003-3772-3221
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/clr.12733
+  title: "An<i>in\_vitro</i>study on disinfection of titanium surfaces"
+  authors:
+  - Arifo Widodo
+  - David Spratt
+  - Vanessa Sousa
+  - Aviva Petrie
+  - Nikolaos Donos
+  publisher: Clinical Oral Implants Research
+  date: '2016-02-10'
+  link: https://doi.org/gsm22b
+  orcid: 0000-0003-3772-3221
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/clr.12735
+  title: Experimental models for contamination of titanium surfaces and disinfection
+    protocols
+  authors:
+  - Vanessa Sousa
+  - Nikos Mardas
+  - David Spratt
+  - David Boniface
+  - Michel Dard
+  - Nikolaos Donos
+  publisher: Clinical Oral Implants Research
+  date: '2016-02-10'
+  link: https://doi.org/gsm22c
+  orcid: 0000-0003-3772-3221
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -92,9 +305,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -111,21 +321,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
