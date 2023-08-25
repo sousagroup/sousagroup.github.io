@@ -1,14 +1,8 @@
----
----
-
 $logo-big: 100px;
 $logo: 50px;
 $big-padding: 30px;
 $collapse: 700px;
 $sticky: true;
-$title-size: 2.5em; 
-$subtitle-size: 1.5em; 
-
 
 header {
   display: flex;
@@ -62,12 +56,9 @@ header a {
 
 // main title
 .title > *:first-child {
-  font-size: $title-size;
+  font-size: var(--xxl);
 }
 
-.title > *:last-child {
-  font-size: $subtitle-size;
-}
 // subtitle
 .title > *:last-child {
   opacity: 0.65;
@@ -114,8 +105,6 @@ nav {
 
 nav > a {
   padding: 5px;
-  font-size: 1.25em; 
-}
 }
 
 nav > a:hover {
@@ -153,19 +142,13 @@ header[data-big] {
   }
 
   .home {
-  display: flex;
-  justify-content: center; // center everything horizontally
-  align-items: center;     // align items vertically
-  gap: 10px;               // spacing between elements
-  flex-basis: 0;
-  flex-grow: 1;
-  max-width: 100%;
-}
+    flex-direction: column;
+    flex-grow: 0;
+  }
 
   .logo {
-  order: -1;               // push the logo to the start/left of its container
-  margin-right: 10px;      // spacing between the logo and title
-}
+    height: $logo-big;
+  }
 
   .title {
     flex-direction: column;
@@ -181,3 +164,4 @@ header[data-big] {
     font-size: var(--large);
   }
 }
+
