@@ -1,5 +1,5 @@
 $logo-big: 100px;
-$logo: 50px;
+$logo: 60px;
 $big-padding: 30px;
 $collapse: 700px;
 $sticky: true;
@@ -9,6 +9,7 @@ header {
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
+  flex-direction: row;
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
