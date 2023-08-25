@@ -46,7 +46,7 @@ header a {
 }
 
 .title > *:first-child {
-  font-size: var(--xxxl);
+  font-size: var(--xxxxl);
 }
 
 .title > *:last-child {
@@ -137,7 +137,7 @@ header[data-big] .title {
   text-align: center;
 }
 header[data-big] .title > *:first-child {
-  font-size: var(--xxxl);
+  font-size: var(--xxxxl);
 }
 header[data-big] .title > *:last-child {
   font-size: var(--large);
