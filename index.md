@@ -1,13 +1,6 @@
 ---
 ---
-<script src="https://cdn.lordicon.com/bhenfmcm.js"></script>
-<lord-icon
-    src="https://cdn.lordicon.com/dxjqoygy.json"
-    trigger="morph"
-    colors="primary:#121331,secondary:#08a88a"
-    state="morph-group"
-    style="width:50px;height:50px">
-</lord-icon> # About Us
+# About Us
 
 
 <span style="font-size: 18px;">
