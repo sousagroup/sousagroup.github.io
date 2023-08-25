@@ -1,6 +1,13 @@
 ---
 ---
 # About Us
+<script src="https://cdn.lordicon.com/bhenfmcm.js"></script>
+<lord-icon
+    src="https://cdn.lordicon.com/dxjqoygy.json"
+    trigger="hover"
+    colors="primary:#121331,secondary:#08a88a"
+    style="width:250px;height:250px">
+</lord-icon>
 
 
 <span style="font-size: 18px;">
