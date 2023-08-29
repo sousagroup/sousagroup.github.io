@@ -1,6 +1,6 @@
 ---
 name: Irmak Goktug
-image: images/irmak.jpg
+image: images/irmak.png
 description: Summer Fellow
 role: phd
 links:
