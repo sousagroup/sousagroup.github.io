@@ -1,6 +1,6 @@
 ---
 name: Natasha Oh
-image: tash.JPG
+image: images/tash.JPG
 role: phd
 description: iBSc Student
 aliases:
