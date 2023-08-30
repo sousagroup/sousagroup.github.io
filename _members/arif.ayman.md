@@ -1,8 +1,8 @@
 ---
 name: Arif Ayman
 image: images/photo.jpg
-role: MSc
-description: Msc
+role: MSc Microbiome
+description: Msc Microbiome
 aliases:
   - A Ayman
   - Arif Ayman
