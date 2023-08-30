@@ -1,6 +1,6 @@
 ---
 title: First Focus Group
-author: Joseph Falconer
+author: joseph.falconer
 tags: biology, medicine, public involvement
 ---
 
