@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# <i class="fa-regular fa-feather fa-lg" style="color: #00cc88;"></i>Team
+# <i class="fa-regular fa-feather-pointed fa-lg" style="color: #00cc88;"></i>Team
 
 <span style="font-size: 20px;">
 Our lab is a lively and diverse collective, with members from various corners of the globe. Including people from all over the world we hope to be as inclusive as possible as we continue our research journey. The team is made up of specialised dentists and students of all levels!
