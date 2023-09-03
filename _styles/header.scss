@@ -1,6 +1,3 @@
----
----
-
 $logo-big: 100px;
 $logo: 50px;
 $big-padding: 30px;
@@ -36,6 +33,7 @@ header a {
   flex-basis: 0;
   flex-grow: 1;
   max-width: 100%;
+  flex-direction: row; // Adjusted to make logo and title side by side
 }
 
 .logo {
@@ -167,4 +165,3 @@ header[data-big] {
     font-size: var(--xxxl);
   }
 }
-
