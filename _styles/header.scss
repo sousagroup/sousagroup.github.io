@@ -1,5 +1,6 @@
 ---
 ---
+
 $logo-big: 100px;
 $logo: 50px;
 $big-padding: 30px;
@@ -132,6 +133,7 @@ header:not([data-big]) {
     }
   }
 }
+
 header[data-big] {
   justify-content: center;
   align-items: center;
