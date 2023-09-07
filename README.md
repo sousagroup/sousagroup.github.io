@@ -14,11 +14,8 @@ This site was built using the [Lab Website Template](https://greene-lab.gitbook.
 
 If you have any feedback or suggestions about our website, feel free to open an issue here. We appreciate community input!
 
-## 📜 License
-
-This project is licensed under the (Insert lisence here)
 
 ## 🤖 Maintainers
 
-- [Joseph Falconer](https://twitter.com/josephfalconer8) - Co-Developer
-- [Arif Ayman](https://github.com/TheStrawberryCow) - Co-Developer
+- [Joseph Falconer](https://twitter.com/josephfalconer8) 
+- [Arif Ayman](https://github.com/TheStrawberryCow) 
