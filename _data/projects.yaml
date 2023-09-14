@@ -9,7 +9,7 @@
     - resource
 
 - title: Peri-implantitis research
-  subtitle: a subtitle
+  subtitle: Exploring the bacteria that cause peri-implantitis
   group: featured
   image: images/photo.jpg
   link: https://github.com/
@@ -18,11 +18,11 @@
   tags:
     - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Periodontology
+  subtitle: Our group contains a number of highly qualified periodontitions.
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Learn more about how our group is helping the growing population of people with gum disease.
   repo: greenelab/lab-website-template
   tags:
     - resource
@@ -37,11 +37,11 @@
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: Confocal Imaging
+  subtitle: Imaging heart valve and granualation tissue
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Alongside our -omics approaches we use microscopy to view the structural components of disease and how this may make individuals more susceptible.
   repo: greenelab/lab-website-template
   tags:
     - software
