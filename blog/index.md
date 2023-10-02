@@ -1,5 +1,5 @@
 ---
-title: Public Involvement
+title: Resources
 nav:
   order: 4
   tooltip: Get involved in our research!
