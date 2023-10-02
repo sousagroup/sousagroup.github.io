@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 <span style="font-size: 20px;">
 The link between oral health and systemic disease is well publicised in an academic field. However, not much research is done from an -omics perspective. Our lab looks to integrate health-care and -omic techniques in order to improve diagnostic and treatment services. We also look at patient perspectives to smooth treatment plans for patients and raise awareness of how looking after your teeth can prevent disease all over your body!
 </span>
