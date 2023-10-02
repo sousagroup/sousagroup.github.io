@@ -75,7 +75,7 @@ Meet our growing group made up of health-care professionals and two blokes who h
 
 {%
   include feature.html
-  image="images/Labpic1.jpeg"
+  image="images/Labpic1.png"
   link="team"
   title="Our Team"
   text=text
