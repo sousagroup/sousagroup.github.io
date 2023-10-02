@@ -5,7 +5,7 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Research
 
 <span style="font-size: 20px;">
 We currently are investigating two different systemic diseases, peri-implantitis and infective endocarditis, and their link to oral health. As part of our infective endocarditis study we have started a patient and public involvement panel, click below to find out more!
