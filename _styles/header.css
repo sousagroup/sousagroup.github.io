@@ -137,7 +137,7 @@ header[data-big] .title {
   text-align: center;
 }
 header[data-big] .title > *:first-child {
-  font-size: var(--xxxxl);
+  font-size: var(--xxxxxl);
 }
 header[data-big] .title > *:last-child {
   font-size: var(--xxxl);
