@@ -530,6 +530,15 @@
     
       
         <a
+          href="/podcast/"
+          data-tooltip="Listen to our podcast!"
+        >
+          Podcast
+        </a>
+      
+    
+      
+        <a
           href="/contact/"
           data-tooltip="Email, address, and location"
         >
