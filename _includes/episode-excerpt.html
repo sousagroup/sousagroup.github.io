@@ -1,4 +1,4 @@
-{% assign episode = episode.posts 
+{% assign episode = site.episodes
   | where_exp: "episode", "episode.slug == include.lookup"
   | first
   | default: include
