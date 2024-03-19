@@ -14,8 +14,6 @@ Join us as we welcome a diverse series of special guests to tell you all about t
 {%
   include feature.html
   image="images/LGC_logo.jpeg"
-  title="Let's Get Clinical Podcast"
-  text=text
 %}
 
 {% include section.html %}
