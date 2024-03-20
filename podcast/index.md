@@ -12,7 +12,9 @@ Join us as we welcome a diverse series of special guests to tell you all about t
 </span>
 
 <div style="text-align: center;">
-  {% include feature.html image="images/LGC_Logo.jpeg" %}
+  <div style="display: inline-block;">
+    {% include feature.html image="images/LGC_Logo.jpeg" %}
+  </div>
 </div>
 
 {% include section.html %}
