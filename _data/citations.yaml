@@ -13,6 +13,7 @@
   publisher: Journal of Clinical Periodontology
   date: '2023-02-13'
   link: https://doi.org/gtkjbb
+  image: https://onlinelibrary.wiley.com/cms/asset/45ea8742-814b-460f-961a-764ca9a6964f/jcpe13775-fig-0007-m.jpg
   orcid: 0000-0003-3772-3221
   plugin: orcid.py
   file: orcid.yaml
@@ -32,6 +33,7 @@
   publisher: International Journal of Environmental Research and Public Health
   date: '2022-10-28'
   link: https://doi.org/gsm2zs
+  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=9659150_ijerph-19-14085-g001.jpg
   orcid: 0000-0003-3772-3221
   plugin: orcid.py
   file: orcid.yaml
@@ -48,6 +50,7 @@
   publisher: International Journal of Environmental Research and Public Health
   date: '2022-10-28'
   link: https://doi.org/gsm2zt
+  image: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=9654334_ijerph-19-14088-g004.jpg
   orcid: 0000-0003-3772-3221
   plugin: orcid.py
   file: orcid.yaml
