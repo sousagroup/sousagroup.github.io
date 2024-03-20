@@ -11,7 +11,7 @@ Currently studying a medical, dental or medical adjacent subject and are wonderi
 Join us as we welcome a diverse series of special guests to tell you all about the world of clinical academia! We give an honest platform to discuss topics such as inclusivity and diversity in the medical/dental field. 
 </span>
 
-
+![plain image](/images/LGC_Logo.jpeg)
 <div style="max-width: 100%; display: inline-block;">
   {% include feature.html image="images/LGC_Logo.jpeg" %}
 </div>
