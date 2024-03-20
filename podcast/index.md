@@ -13,7 +13,7 @@ Join us as we welcome a diverse series of special guests to tell you all about t
 
 
 <div style="max-width: 100%; display: inline-block;">
-  {% image="images/LGC_Logo.jpeg" %}
+  {% include feature.html image="images/LGC_Logo.jpeg" %}
 </div>
 
 
