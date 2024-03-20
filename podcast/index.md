@@ -27,7 +27,7 @@ Join us as we welcome a diverse series of special guests to tell you all about t
 
 {%
   include post-excerpt.html
-  lookup="Podcast coming soon!"
+  lookup="2024-03-19-prior-to-release.md"
 %}
 
 {% include list.html data="episodes" component="episode-excerpt" %}
