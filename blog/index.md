@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Lab News
 nav:
   order: 4
   tooltip: Get involved in our research!
