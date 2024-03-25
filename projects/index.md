@@ -12,7 +12,7 @@ We currently are investigating two different systemic diseases, peri-implantitis
 </span>
 
 <div style="text-align: center;">
-  <img src="/images/LGC_Logo.jpeg" alt="plain image">
+  <img src="/images/cell5.mov" alt="plain image">
 </div>
 
 {% include tags.html tags="publication, resource, website" %}
