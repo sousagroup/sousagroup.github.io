@@ -2,6 +2,7 @@
 name: Mingjin Yao
 image: images/Mingjin.png
 role: phd
+status: active
 description: PhD Student
 
 links:
