@@ -7,6 +7,6 @@ tags:
   - poster
 ---
 
-In this video we give a brief explanation of our research. We aimed to investigate microbial communities and resistomes in periodontitis and peri-implantitis patients. We used shotgun metagenomic sequencing to analyse saliva samples and produced taxonomy, ARG and MRG data.
+In this video we give a brief explanation of our research. We aimed to investigate microbial communities and resistomes in periodontitis and peri-implantitis patients. We used shotgun metagenomic sequencing to analyse saliva samples and produced taxonomy, ARG and MRG data. Click on this post to watch the video!
 
 ![](https://youtu.be/gFRrHh9v6LE)
