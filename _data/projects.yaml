@@ -2,7 +2,7 @@
   subtitle: Increasing awareness of poor oral health and infective endocarditis
   group: featured
   image: images/OralBio_PPI.png
-  link: https://github.com/
+  link: https://oralbiome.github.io/2023/08/08/focus-group-post-3.html
   description: By running a bi-annual focus group on the link between infective endocarditis and oral health we get public perceptions on the disease and what more can be done.
   repo: greenelab/lab-website-template
   tags:
@@ -13,7 +13,7 @@
   subtitle: Exploring the bacteria that cause peri-implantitis
   group: featured
   image: images/Cell1.png
-  link: https://github.com/
+  link: https://www.mdpi.com/1660-4601/19/21/14088
   description: Mingjin focusses on investigating peri-implantitis, finding potential biomarkers for the causation of the disease.
   repo: greenelab/lab-website-template
   tags:
@@ -23,7 +23,7 @@
 - title: Medical specialists
   subtitle: Our group contains a number of highly qualified periodontitions and healthcare professionals.
   image: images/Healthcare_pros.png
-  link: https://github.com/
+  link: https://oralbiome.github.io/team/
   description: Learn more about how our group is helping the growing population of people with gum disease.
   repo: greenelab/lab-website-template
   tags:
@@ -33,7 +33,7 @@
 - title: Metagenomic Analyses
   subtitle: Combination of R, python and Bash scripts to analyse bacterial genomes.
   image: https://www.kaust.edu.sa/images/kaustlibraries/en/news/publishingimages/exploring-bioinformatics/shutterstock_430479463-dna-sequencing.jpg
-  link: https://github.com/
+  link: https://github.com/TheStrawberryCow/AD12122-Dissertation-Scripts
   description: Take a look at our Github to see what code we are using to analyse saliva, heart valve and stool bacterial DNA.
   repo: greenelab/lab-website-template
   tags:
@@ -44,7 +44,7 @@
 - title: Microscopy
   subtitle: Imaging heart valves, biofilms and granualation tissue
   image: images/Cell2.png
-  link: https://github.com/
+  link: https://www.mdpi.com/1422-0067/23/17/10033
   description: Alongside our -omics approaches we use microscopy to view the structural components of disease and how this may make individuals more susceptible.
   repo: greenelab/lab-website-template
   tags:
