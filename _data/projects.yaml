@@ -12,7 +12,7 @@
 - title: Peri-implantitis research
   subtitle: Exploring the bacteria that cause peri-implantitis
   group: featured
-  image: images/Cell1.tif
+  image: images/Cell1.png
   link: https://github.com/
   description: Mingjin focusses on investigating peri-implantitis, finding potential biomarkers for the causation of the disease.
   repo: greenelab/lab-website-template
@@ -43,7 +43,7 @@
 
 - title: Microscopy
   subtitle: Imaging heart valves, biofilms and granualation tissue
-  image: images/Cell2.TIF
+  image: images/Cell2.png
   link: https://github.com/
   description: Alongside our -omics approaches we use microscopy to view the structural components of disease and how this may make individuals more susceptible.
   repo: greenelab/lab-website-template
