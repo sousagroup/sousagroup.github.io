@@ -2,7 +2,7 @@
 name: Ayden Ismail
 image: images/ayden.jpg
 description: iBSc Student
-role: phd
+role: undergrad
 status: alumni
 links:
   email: ayden.ismail@kcl.ac.uk
