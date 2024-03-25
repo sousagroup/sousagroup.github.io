@@ -1,6 +1,6 @@
 ---
 title: ITI Poster presentation of microbial communities in peri-implantitis patients
-author: joseph-falconer
+author: joseph.falconer
 tags:
   - ITI
   - presentation
