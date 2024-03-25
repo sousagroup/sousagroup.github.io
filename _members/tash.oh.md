@@ -1,7 +1,7 @@
 ---
 name: Natasha Oh
 image: images/tash.JPG
-role: phd
+role: undergrad
 status: alumni
 description: iBSc Student
 aliases:
