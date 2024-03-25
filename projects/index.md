@@ -8,8 +8,12 @@ nav:
 # {% include icon.html icon="fa-solid fa-wrench" %}Research
 
 <span style="font-size: 20px;">
-We currently are investigating two different systemic diseases, peri-implantitis and infective endocarditis, and their link to oral health. As part of our infective endocarditis study we have started a patient and public involvement panel, click below to find out more!
+We currently are investigating two different systemic diseases, peri-implantitis and infective endocarditis, and their link to oral health. Below you will see a Z-stack 3D animation of an in vitro peri-implantitis biofilm.
 </span>
+
+<div style="text-align: center;">
+  <img src="/images/LGC_Logo.jpeg" alt="plain image">
+</div>
 
 {% include tags.html tags="publication, resource, website" %}
 
