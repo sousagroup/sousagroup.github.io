@@ -18,7 +18,7 @@ Our lab is a lively and diverse collective, with members from various corners of
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-We are always looking for new members! Please see below the current PhD/post-doctoral projects advertised by us!
+We are always looking for new members! Please look on findaphd.com to see if we are advertising or email us directly!
 
 {% include section.html %}
 
