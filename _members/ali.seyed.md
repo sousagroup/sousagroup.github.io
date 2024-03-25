@@ -3,6 +3,7 @@ name: Ali Seyed
 image: images/ali.jpg
 role: phd
 description: MClinDent Student
+status: active
 
 links:
   email: seyed_ali.tarjomani@kcl.ac.uk
