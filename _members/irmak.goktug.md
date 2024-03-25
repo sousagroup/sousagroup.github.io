@@ -3,7 +3,7 @@ name: Irmak Goktug
 image: images/irmak.png
 description: Summer Fellow
 status: active
-role: phd
+role: undergrad
 links:
   email: irmak.goktug@kcl.ac.uk
 ---
