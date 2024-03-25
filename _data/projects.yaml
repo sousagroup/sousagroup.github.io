@@ -1,47 +1,52 @@
 - title: Patient and Public Involvement Panel
   subtitle: Increasing awareness of poor oral health and infective endocarditis
   group: featured
-  image: images/photo.jpg
+  image: images/OralBio_PPI.jpg
   link: https://github.com/
   description: By running a bi-annual focus group on the link between infective endocarditis and oral health we get public perceptions on the disease and what more can be done.
   repo: greenelab/lab-website-template
   tags:
     - resource
+    - PPI
 
 - title: Peri-implantitis research
   subtitle: Exploring the bacteria that cause peri-implantitis
   group: featured
-  image: images/photo.jpg
+  image: images/Cell1.tif
   link: https://github.com/
-  description: Rawan and Norah both investigate peri-implantitis, finding potential biomarkers for the causation of the disease.
+  description: Mingjin focusses on investigating peri-implantitis, finding potential biomarkers for the causation of the disease.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - imaging
+    - peri-implantitis
 
-- title: Periodontology
-  subtitle: Our group contains a number of highly qualified periodontitions.
-  image: images/photo.jpg
+- title: Medical specialists
+  subtitle: Our group contains a number of highly qualified periodontitions and healthcare professionals.
+  image: images/Healthcare_pros.png
   link: https://github.com/
   description: Learn more about how our group is helping the growing population of people with gum disease.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - dental
     - publication
 
 - title: Metagenomic Analyses
   subtitle: Combination of R, python and Bash scripts to analyse bacterial genomes.
-  image: images/photo.jpg
+  image: https://www.kaust.edu.sa/images/kaustlibraries/en/news/publishingimages/exploring-bioinformatics/shutterstock_430479463-dna-sequencing.jpg
   link: https://github.com/
   description: Take a look at our Github to see what code we are using to analyse saliva, heart valve and stool bacterial DNA.
   repo: greenelab/lab-website-template
   tags:
     - software
+    - coding
+    - data analysis
 
-- title: Confocal Imaging
-  subtitle: Imaging heart valve and granualation tissue
-  image: images/photo.jpg
+- title: Microscopy
+  subtitle: Imaging heart valves, biofilms and granualation tissue
+  image: images/Cell2.TIF
   link: https://github.com/
   description: Alongside our -omics approaches we use microscopy to view the structural components of disease and how this may make individuals more susceptible.
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - imaging
+    - microscopy
