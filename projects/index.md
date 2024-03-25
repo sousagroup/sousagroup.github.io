@@ -12,8 +12,12 @@ We currently are investigating two different systemic diseases, peri-implantitis
 </span>
 
 <div style="text-align: center;">
-  <img src="/images/cell5.mov" alt="plain image">
+  <video width="320" height="240" controls>
+    <source src="/images/cell5.mov" type="video/quicktime">
+    Your browser does not support the video tag.
+  </video>
 </div>
+
 
 {% include tags.html tags="publication, resource, website" %}
 
