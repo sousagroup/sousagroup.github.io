@@ -18,9 +18,10 @@ Our lab is a lively and diverse collective, with members from various corners of
 <span style="font-size: 20px;">
 Have a look at some of the wonderful people who have worked in the lab in the past. We also keep in touch with alumni and keep them in the loop of our current research!
 </span>
+
 {% include list.html data="members" component="portrait" filters="status: alumni" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/background.jpg" %}
 
 We are always looking for new members! Please look on findaphd.com to see if we are advertising or email us directly!
 
