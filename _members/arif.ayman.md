@@ -2,7 +2,7 @@
 name: Arif Ayman
 image: images/arif.jpg
 status: alumni
-role: phd
+role: undergrad
 description: Msc Microbiome
 aliases:
   - A Ayman
