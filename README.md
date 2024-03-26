@@ -1,6 +1,9 @@
 # Oralbiome's Website
 
-Welcome to the repository for Oralbiome's official website!
+Welcome to the repository for Dr Vanessa Sousa's official website!
+
+ABOUT US
+We are a lab based at KCL in London looking to understand the links between oral health and systemic diseases. By integrating advanced multi-omics analyses and principles of systems biology, we aim to uncover the deeper, interconnected mechanisms that tie dental well-being to the broader landscape of human health.
 
 ## 🌐 Visit Us
 
