@@ -5,9 +5,9 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope" %}Contact Us
 <span style="font-size: 20px;">
-If you find our research intriguing or wish to delve deeper into the connections between oral health and systemic diseases, please reach out to us.
+If you find our research intriguing and wish to learn more about the connections between oral health and systemic diseases, please reach out to us!
 </span>
 <div class="button-group">
   {%
@@ -39,16 +39,16 @@ If you find our research intriguing or wish to delve deeper into the connections
   {% capture col1 %}
   {%
     include figure.html
-    image="images/team_photo.jpg"
-    caption="Members of our team at work in the KCL lab."
+    image="https://www.moduleco.com/wp-content/uploads/2023/05/Guys-Hospital-Operating-Theatre-Install-Ariel-Landscape-reduced.jpg"
+    caption="We are based in Guy's hospital! (image credit: ModuleCo)"
   %}
   {% endcapture %}
   
   {% capture col2 %}
   {%
     include figure.html
-    image="images/equipment_photo.jpg"
-    caption="Advanced equipment used for our oral health research."
+    image="images/rosita2.jpeg"
+    caption="Rosita again!!"
   %}
   {% endcapture %}
   
@@ -67,7 +67,7 @@ If you find our research intriguing or wish to delve deeper into the connections
   {% endcapture %}
   
   {% capture col3 %}
-  Stay in the loop with our latest research, findings, and publications. Consider subscribing to our newsletter or following us on our social media channels. Together, we can spread knowledge and make strides in the world of health research.
+  Stay in the loop with our latest research, findings, and publications. Consider following us on our youtube channels for conference presentations. Together, we can spread knowledge and make strides in the world of health research.
   {% endcapture %}
   
   {% include cols.html col1=col1 col2=col2 col3=col3 %}
