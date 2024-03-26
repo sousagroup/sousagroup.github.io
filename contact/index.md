@@ -39,7 +39,7 @@ If you find our research intriguing and wish to learn more about the connections
   {% capture col1 %}
   {%
     include figure.html
-    image="images/guys.jpeg"
+    image="images/guys2.png"
     caption="We are based in Guy's hospital! (image credit: GSTT photos)"
   %}
   {% endcapture %}
