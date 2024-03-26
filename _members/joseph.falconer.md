@@ -2,10 +2,11 @@
 name: Joseph Falconer
 image: images/joe.jpg
 role: phd
+status: active
 description: PhD Student
 aliases:
   - Joe Falconer
-  - 
+  - Joseph Luke Falconer
 links:
   home-page: 
   orcid: 0000-0003-2719-5306
