@@ -13,7 +13,7 @@ Our lab is a lively and diverse collective, with members from various corners of
 
 {% include section.html %}
 
-# Current Team
+# Current Team 
 
 {% assign active_members = members | where: "status", "active" %}
 
