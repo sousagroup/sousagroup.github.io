@@ -38,9 +38,9 @@ We are always looking for new members! Please look on findaphd.com to see if we 
 
 {% capture content %}
 
-{% include figure.html image="images/clinic.jpeg" %}
-{% include figure.html image="images/joe_presenting.jpeg" %}
-{% include figure.html image="images/rosita.jpeg" %}
+{% include figure.html image="images/clinic.jpeg" caption="On the clinic with the peri-implantitis team!" %}
+{% include figure.html image="images/joe_presenting.jpeg" caption="Joe presenting in Chile to our collaborators" %}
+{% include figure.html image="images/rosita.jpeg" caption="Rosita!! The lab mascot!!" %}
 
 {% endcapture %}
 
