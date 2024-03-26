@@ -55,7 +55,7 @@ If you find our research intriguing and wish to learn more about the connections
   {% include cols.html col1=col1 col2=col2 %}
 </div>
 
-{% include section.html dark=true %}
+{% include section.html %}
 
 <div class="info-section">
   {% capture col1 %}
