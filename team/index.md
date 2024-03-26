@@ -15,25 +15,10 @@ Our lab is a lively and diverse collective, with members from various corners of
 
 # Current Team 
 
-{% assign active_members = members | where: "status", "active" %}
-
-{% assign pi_members = active_members | where: "role", "pi" %}
-{% assign sorted_pi_members = pi_members | sort: "name" %}
-
-{% assign phd_students = active_members | where: "role", "phd_student" %}
-{% assign sorted_phd_students = phd_students | sort: "name" %}
-
-{% assign mclindent_students = active_members | where: "role", "mclindent" %}
-{% assign sorted_mclindent_students = mclindent_students | sort: "name" %}
-
-{% assign undergrad_students = active_members | where: "role", "undergrad" %}
-{% assign sorted_undergrad_students = undergrad_students | sort: "name" %}
-
-{% assign sorted_active_members = sorted_pi_members | concat: sorted_phd_students | concat: sorted_mclindent_students | concat: sorted_undergrad_students %}
-
-{% for member in sorted_active_members %}
-    {% include list.html data="members" component="portrait" %}
-{% endfor %}
+{% include list.html data="members" component="portrait" filters="status: active, role: pi" %}
+{% include list.html data="members" component="portrait" filters="status: active, role: phd" %}
+{% include list.html data="members" component="portrait" filters="status: active, role: mclindent" %}
+{% include list.html data="members" component="portrait" filters="status: active, role: undergrad" %}
 
 {% include section.html %}
 
