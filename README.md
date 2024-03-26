@@ -4,7 +4,7 @@ Welcome to the repository for Oralbiome's official website!
 
 ## 🌐 Visit Us
 
-Check out our website at **[oralbiome.github.io/sousagroup.github.io](https://oralbiome.github.io/sousagroup.github.io)** 🚀
+Check out our website at **[oralbiome.github.io](https://oralbiome.github.io)** 🚀
 
 ## 🛠️ Framework
 
