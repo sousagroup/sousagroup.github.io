@@ -1,7 +1,7 @@
 ---
 name: Ali Seyed
 image: images/ali.jpg
-role: phd
+role: mclindent
 description: MClinDent Student
 status: active
 
