@@ -2,22 +2,43 @@
   type: paper
   description: In order to investigate the bacterial microbiome in periodontal and peri-implant biofirms from aggressive periodontitis patients, 91 plaque samples were collected and analysed using 16S rRNA gene amplification and sequencing.
   date: 2016-05-11
-  image: https://onlinelibrary.wiley.com/cms/asset/d55f8b03-9d08-4eed-9bda-ba5c0dd24336/clr12834-fig-0002-m.png
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0300571221003341-gr1.jpg
   tags:
-    - open science
+    - research
     - collaboration
-  repo: greenelab/meta-review
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1111/jcpe.13775
+  image: https://onlinelibrary.wiley.com/cms/asset/45ea8742-814b-460f-961a-764ca9a6964f/jcpe13775-fig-0007-m.jpg
+- id: doi:10.3390/ijerph192114085
+  image: images/moaven_et_al_fig.jpg
+- id: doi:10.3390/ijerph192114088
+  image: images/sousa_donos_fig.jpg
+- id: doi:10.3390/ijms231710033
+  image: images/sousa_donos_fig2.png
+- id: doi:10.3390/ijms23179802
+  image: https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052011/universidad_de_los_andes.ai-converted.png?itok=y1752Xyp
+- id: doi:doi.org/10.3390/ijerph19148388
+  image: images/flores_et_al_fig.png
+- id: doi:10.1016/j.ekir.2022.06.016
+  image: images/kotecha_et_al_fig.jpg
+- id: doi:10.1038/s41415-022-3989-0
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41415-022-3989-0/MediaObjects/41415_2022_3989_Fig1_HTML.jpg?as=webp
+- id: doi:10.3389/fcimb.2021.696432
+  image: https://www.frontiersin.org/files/Articles/696432/fcimb-11-696432-HTML/image_m/fcimb-11-696432-g004.jpg
+- id: doi:10.4067/S0717-95022021000300683
+  image: https://www.scielo.cl/img/revistas/ijmorphol/v39n3//0717-9502-ijmorphol-39-03-683-gf1.jpg
+- id: doi:10.1111/jcpe.13330
+  image: https://onlinelibrary.wiley.com/cms/asset/07bc32a0-3b60-42df-93d1-cfb7a68e2629/jcpe13330-fig-0003-m.jpg
+- id: doi:10.17126/JORALRES.2020.025
+  image: images/victor_et_al.png
+- id: doi:10.1155/2019/2797210
+  image: images/victor_et_al_fig2.jpg
+- id: doi:10.1111/clr.12834
+  image: https://onlinelibrary.wiley.com/cms/asset/b1512b38-749e-42f3-9cfa-d93308733e18/clr12834-fig-0006-m.jpg
+- id: doi:10.1111/clr.12684
+  image: https://onlinelibrary.wiley.com/cms/asset/c45749c7-c27c-4346-ab10-e683b6024d77/clr12684-fig-0001-m.jpg
+- id: doi:10.1111/clr.12733
+  image: https://onlinelibrary.wiley.com/cms/asset/d17a53a3-f7b3-4832-b230-9f27528d3bac/clr12733-fig-0001-m.jpg
+- id: doi:10.1111/clr.12735
+  image: https://onlinelibrary.wiley.com/cms/asset/e323b916-5203-428b-a89d-05ca6aa85b2a/clr12735-fig-0001-m.jpg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
