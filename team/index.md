@@ -41,7 +41,7 @@ We are always looking for new members! Please look on findaphd.com to see if we 
 
 {% include figure.html image="images/clinic.jpeg" caption="On the clinic with the peri-implantitis team!" %}
 {% include figure.html image="images/joe_presenting.jpeg" caption="Joe presenting in Chile to our collaborators" %}
-{% include figure.html image="images/christmas.jpeg" caption="Lab Christmas dinner 2023!" %}
+{% include figure.html image="images/rosita.jpeg" caption="Rosita!! Our lab mascot!" %}
 
 {% endcapture %}
 
