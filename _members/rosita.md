@@ -1,6 +1,6 @@
 ---
 name: Dogtor Rosita
-image: images/rosita.jpg
+image: images/rosita.jpeg
 role: mascot
 description: Mascot
 status: active
