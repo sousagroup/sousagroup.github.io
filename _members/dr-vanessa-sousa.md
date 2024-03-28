@@ -3,7 +3,7 @@ name: Dr Vanessa Sousa
 image: images/photo.jpg
 role: pi
 status: active
-description: PI
+description: Principal Investigator
 aliases:
   - V Sousa
   - V. Sousa Moreno
