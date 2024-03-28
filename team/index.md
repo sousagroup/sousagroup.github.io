@@ -19,6 +19,7 @@ Our lab is a lively and diverse collective, with members from various corners of
 {% include list.html data="members" component="portrait" filters="status: active, role: phd" %}
 {% include list.html data="members" component="portrait" filters="status: active, role: mclindent" %}
 {% include list.html data="members" component="portrait" filters="status: active, role: undergrad" %}
+{% include list.html data="members" component="portrait" filters="status: active, role: mascot" %}
 
 {% include section.html %}
 
