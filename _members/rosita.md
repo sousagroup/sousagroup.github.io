@@ -8,4 +8,4 @@ status: active
  
 ---
 
-Rosita specialises in the 13, 26, 36  and 46 teeth and is the happy mascot of the Sousa group!
+Rosita specialises in the 13, 23, 33  and 43 teeth and is the happy mascot of the Sousa group!
