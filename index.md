@@ -3,7 +3,7 @@
 
 # About Us
 
-We are a lab based at [King's College London](https://www.kcl.ac.uk/dentistry) looking to understand the links between oral health and systemic diseases. By integrating advanced multi-omics analyses and principles of systems biology, we aim to uncover the deeper, interconnected mechanisms that tie dental well-being to the broader landscape of human health.
+We are a lab based at [King's College London School of Dentistry](https://www.kcl.ac.uk/dentistry) looking to understand the links between oral health and systemic diseases. By integrating advanced multi-omics analyses and principles of systems biology, we aim to uncover the deeper, interconnected mechanisms that tie dental well-being to the broader landscape of human health.
 
 {% include section.html %}
 
