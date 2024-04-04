@@ -9,8 +9,10 @@ footer-dark: false
 
 # site social media and other links
 links:
-  email: joseph.falconer@kcl.ac.uk
-  github: https://github.com/TheStrawberryCow/AD12122-Dissertation-Scripts
+  email: vanessa.sousa@kcl.ac.uk
+  github: https://github.com/sousagroup
+  orcid: 0000-0001-8713-9213
+  
 
 ### jekyll settings
 
