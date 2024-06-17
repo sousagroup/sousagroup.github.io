@@ -1,7 +1,7 @@
 ---
 name: Arif Ayman
 image: images/yuehin.jpeg
-status: alumni
+status: active
 role: undergrad
 description: Msc Microbiome
 aliases:
