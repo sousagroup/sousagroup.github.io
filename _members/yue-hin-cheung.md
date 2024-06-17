@@ -1,5 +1,5 @@
 ---
-name: Arif Ayman
+name: Yue Hin Cheung
 image: images/yuehin.jpeg
 status: active
 role: undergrad
