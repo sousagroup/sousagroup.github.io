@@ -3,7 +3,7 @@ name: Yue Hin Cheung
 image: images/yuehin.jpeg
 status: active
 role: undergrad
-description: Msc Microbiome
+description: Summer Fellow
 aliases:
   - Yue
   - Yue Hin
