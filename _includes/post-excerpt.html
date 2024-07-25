@@ -19,7 +19,7 @@
 
   {% assign excerpt = post.content
     | default: ""
-    | regex_scan: "<!-- excerpt start -->(.*)<!-- excerpt end -->", true
+    | regex_scan: "<!-- excerpt start -->([\\s\\S]*?)<!-- excerpt end -->", true
     | default: post.excerpt
     | default: ""
     | strip_html
@@ -30,6 +30,6 @@
     | regex_strip
   %}
   <p data-search="{{ search }}">
-    {{ excerpt }}
+    {{ excerpt | markdownify }}
   </p>
 </div>
