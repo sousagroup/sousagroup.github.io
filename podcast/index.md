@@ -23,6 +23,10 @@ Join us as we welcome a diverse series of special guests to tell you all about t
 {%
   include post-excerpt.html
   lookup="prior-to-release"
+%}
+
+{%
+  include post-excerpt.html
   lookup="S1E1"
 %}
 
