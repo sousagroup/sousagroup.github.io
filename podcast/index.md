@@ -21,7 +21,8 @@ Join us as we welcome a diverse series of special guests to tell you all about t
 {% include search-info.html %}
 
 {%
-  include _posts/2024-07-25-S1E1.md
+  include post-excerpt.html
+  lookup="prior-to-release"
 %}
 
 {%
