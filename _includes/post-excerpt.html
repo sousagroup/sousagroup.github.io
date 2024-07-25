@@ -22,7 +22,7 @@
     | regex_scan: "<!-- excerpt start -->([\\s\\S]*?)<!-- excerpt end -->", true
     | default: post.excerpt
     | default: ""
-    | strip_html
+    | markdownify
   %}
   {% assign search = post.content
     | strip_html 
