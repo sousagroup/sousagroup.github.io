@@ -108,7 +108,7 @@
   plugin: sources.py
   file: sources.yaml
   image: https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052011/universidad_de_los_andes.ai-converted.png?itok=y1752Xyp
-- id: doi:doi.org/10.3390/ijerph19148388
+- id: doi:10.3390/ijerph19148388
   title: Histological and Immunohistochemical Analysis of Peri-Implant Soft and Hard
     Tissues in Patients with Peri-Implantitis
   authors:
@@ -123,9 +123,8 @@
   date: '2022-07-08'
   link: https://doi.org/gsm2zx
   orcid: 0000-0003-3772-3221
-  plugin: sources.py
-  file: sources.yaml
-  image: images/flores_et_al_fig.png
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.ekir.2022.06.016
   title: 'High Prevalence of Periodontal Disease Observed in Patients on Hemodialysis:
     A Call for Equitable Access to Dental Care'
@@ -350,3 +349,20 @@
   plugin: sources.py
   file: sources.yaml
   image: https://onlinelibrary.wiley.com/cms/asset/e323b916-5203-428b-a89d-05ca6aa85b2a/clr12735-fig-0001-m.jpg
+- id: doi:doi.org/10.3390/ijerph19148388
+  title: Histological and Immunohistochemical Analysis of Peri-Implant Soft and Hard
+    Tissues in Patients with Peri-Implantitis
+  authors:
+  - Valentina Flores
+  - Bernardo Venegas
+  - Wendy Donoso
+  - Camilo Ulloa
+  - Alejandra Chaparro
+  - Vanessa Sousa
+  - "V\xEDctor Beltr\xE1n"
+  publisher: International Journal of Environmental Research and Public Health
+  date: '2022-07-08'
+  link: https://doi.org/gsm2zx
+  image: images/flores_et_al_fig.png
+  plugin: sources.py
+  file: sources.yaml
