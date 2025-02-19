@@ -36,7 +36,7 @@ Have a look at some of the wonderful people who have worked on this project in t
 # Project Mascot
 
 <span style="font-size: 20px;">
-Have a look at some of the wonderful people who have worked on this project in the past. We keep in touch with alumni and keep them in the loop of our current progress!
+Our project mascot Rosita always brings great energy!
 </span>
 
 {% include list.html data="members" component="portrait" filters="status: mascot" %}
