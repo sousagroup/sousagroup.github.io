@@ -1,7 +1,7 @@
 ---
 title: Resources
 nav:
-  order: 4
+  order: 2
   tooltip: Oral hygeine instructions and more!
 ---
 
