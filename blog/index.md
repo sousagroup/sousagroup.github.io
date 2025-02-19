@@ -5,7 +5,7 @@ nav:
   tooltip: Oral hygeine instructions and more!
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Lab Updates
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}Oral Hygeine Resources
 <p style="font-size: 20px;"> We have recorded and made a number of resources for anyone to use regarding maintaining good oral health! Please see them below, they include: recorded videos on how to floss, brush and use interdental toothbrushes and print out copies of these instructions.
 </p>
   
