@@ -1,6 +1,6 @@
 ---
 name: Dr Vanessa Sousa
-image: images/vanessa.jpg
+image: images/vanessa_new.jpeg
 role: pi
 status: active
 description: Principal Investigator
