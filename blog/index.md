@@ -30,7 +30,7 @@ nav:
                 return; // Correct passcode, allow access
             } else {
                 attempts--;
-                alert(`Incorrect passcode! ${attempts > 0 ? `Try again (${attempts} attempts left).` : "Redirecting..."}`);
+                alert(`Incorrect passcode! ${attempts > 0 ? `Try again!).` : "Redirecting..."}`);
             }
         }
 
