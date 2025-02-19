@@ -1,8 +1,8 @@
 ---
-title: Lab News
+title: Resources
 nav:
   order: 4
-  tooltip: Get involved in our research!
+  tooltip: Oral hygeine instructions and more!
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Lab Updates
