@@ -75,7 +75,7 @@ nav:
             });
 
             if (!userInput) {
-                window.location.href = "/blog"; // If user cancels, reload blog page
+                window.location.href = "/"; // If user cancels, reload blog page
                 return;
             }
 
