@@ -5,7 +5,7 @@ nav:
   tooltip: The people who made this site!
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %} Team
+# {% include icon.html icon="fa-solid fa-users" %} Current and past contributors
 
 <span style="font-size: 20px;">
 Our lab is a lively and diverse collective, with members from various corners of the globe. Including people from all over the world we hope to be as inclusive as possible as we continue our research journey. The team is made up of specialised dentists and students of all levels!
