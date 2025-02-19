@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Creators
 nav:
   order: 3
   tooltip: About our team
@@ -13,7 +13,7 @@ Our lab is a lively and diverse collective, with members from various corners of
 
 {% include section.html %}
 
-# Current Team 
+# Creators 
 
 {% include list.html data="members" component="portrait" filters="status: active, role: pi" %}
 {% include list.html data="members" component="portrait" filters="status: active, role: phd" %}
@@ -23,7 +23,7 @@ Our lab is a lively and diverse collective, with members from various corners of
 
 {% include section.html %}
 
-# Past Members
+# Past Contributors
 
 <span style="font-size: 20px;">
 Have a look at some of the wonderful people who have worked in the lab in the past. We keep in touch with alumni and keep them in the loop of our current research!
