@@ -15,11 +15,66 @@ nav:
 
     async function checkPasscode() {
         const correctHash = "0087c66a2a25124aa538e6a639e8fa6d322d0b60ff32e4696c399bd3c0e3c282"; // Replace with your hash
-        let attempts = 3; // Allow multiple tries
+        let attempts = 3;
 
         while (attempts > 0) {
-            const userInput = prompt("Enter the passcode:");
-            if (userInput === null) {
+            // Create a custom password input
+            const userInput = await new Promise((resolve) => {
+                const modal = document.createElement("div");
+                modal.style.position = "fixed";
+                modal.style.top = "0";
+                modal.style.left = "0";
+                modal.style.width = "100%";
+                modal.style.height = "100%";
+                modal.style.background = "rgba(0, 0, 0, 0.5)";
+                modal.style.display = "flex";
+                modal.style.justifyContent = "center";
+                modal.style.alignItems = "center";
+                modal.style.zIndex = "1000";
+
+                const box = document.createElement("div");
+                box.style.background = "#fff";
+                box.style.padding = "20px";
+                box.style.borderRadius = "10px";
+                box.style.boxShadow = "0px 4px 6px rgba(0, 0, 0, 0.1)";
+                box.style.textAlign = "center";
+
+                const label = document.createElement("p");
+                label.textContent = "Enter the passcode:";
+                label.style.fontSize = "16px";
+                label.style.marginBottom = "10px";
+
+                const input = document.createElement("input");
+                input.type = "password"; // Hides input as dots
+                input.style.fontSize = "16px";
+                input.style.padding = "5px";
+                input.style.marginBottom = "10px";
+                input.style.width = "100%";
+                input.style.boxSizing = "border-box";
+
+                const button = document.createElement("button");
+                button.textContent = "Submit";
+                button.style.marginTop = "10px";
+                button.style.padding = "5px 15px";
+                button.style.background = "#007BFF";
+                button.style.color = "#fff";
+                button.style.border = "none";
+                button.style.borderRadius = "5px";
+                button.style.cursor = "pointer";
+                button.onclick = () => {
+                    modal.remove();
+                    resolve(input.value);
+                };
+
+                box.appendChild(label);
+                box.appendChild(input);
+                box.appendChild(button);
+                modal.appendChild(box);
+                document.body.appendChild(modal);
+                input.focus();
+            });
+
+            if (!userInput) {
                 window.location.href = "/blog"; // If user cancels, reload blog page
                 return;
             }
@@ -30,7 +85,7 @@ nav:
                 return; // Correct passcode, allow access
             } else {
                 attempts--;
-                alert(`Incorrect passcode! ${attempts > 0 ? `Try again!).` : "Redirecting..."}`);
+                alert(`Incorrect passcode! ${attempts > 0 ? `Try again (${attempts} attempts left).` : "Redirecting..."}`);
             }
         }
 
@@ -39,6 +94,7 @@ nav:
 
     window.onload = checkPasscode;
 </script>
+
 
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Oral Hygiene Resources
