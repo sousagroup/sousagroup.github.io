@@ -2,7 +2,7 @@
 title: Creators
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: The people who made this site!
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %} Team
@@ -26,10 +26,20 @@ Our lab is a lively and diverse collective, with members from various corners of
 # Past Contributors
 
 <span style="font-size: 20px;">
-Have a look at some of the wonderful people who have worked in the lab in the past. We keep in touch with alumni and keep them in the loop of our current research!
+Have a look at some of the wonderful people who have worked on this project in the past. We keep in touch with alumni and keep them in the loop of our current progress!
 </span>
 
 {% include list.html data="members" component="portrait" filters="status: alumni" %}
+
+{% include section.html %}
+
+# Project Mascot
+
+<span style="font-size: 20px;">
+Have a look at some of the wonderful people who have worked on this project in the past. We keep in touch with alumni and keep them in the loop of our current progress!
+</span>
+
+{% include list.html data="members" component="portrait" filters="status: mascot" %}
 
 {% include section.html background="images/background.jpg" %}
 
