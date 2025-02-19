@@ -2,7 +2,7 @@
 name: Isobel Tuckwell
 image: images/bel.png
 description: Summer Fellow
-status: active
+status: alumni
 role: undergrad
 links:
   email: isobel.tuckwell@kcl.ac.uk
