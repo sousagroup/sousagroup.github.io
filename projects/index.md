@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-wrench" %}Research
 
 <span style="font-size: 20px;">
-We currently are investigating two different systemic diseases, peri-implantitis and infective endocarditis, and their link to oral health. Below you will see a Z-stack 3D animation of an in vitro peri-implantitis biofilm.
+We currently are investigating multiple different diseases including, peri-implantitis and infective endocarditis, and their link to oral health. Below you will see a Z-stack 3D animation of an in vitro peri-implantitis biofilm.
 </span>
 
 <div style="text-align: center;">
