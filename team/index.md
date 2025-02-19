@@ -1,7 +1,7 @@
 ---
 title: Creators
 nav:
-  order: 3
+  order: 1
   tooltip: The people who made this site!
 ---
 
