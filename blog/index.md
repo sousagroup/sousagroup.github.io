@@ -6,7 +6,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Lab Updates
-<p style="font-size: 20px;">  Keep up to date with the lab by taking a look at our presentations, posters and more to see what other stuff we get up to! 
+<p style="font-size: 20px;"> We have recorded and made a number of resources for anyone to use regarding maintaining good oral health! Please see them below, they include: recorded videos on how to floss, brush and use interdental toothbrushes and print out copies of these instructions.
 </p>
   
 <p style="font-size: 20px;"> As part of our research motto we aim to include the public in as much as we can! We run patient and public involvement panels freqeuntly, all year round! See below to see when our next session takes place. All of our meetings take place online (through Teams) so it's easy to get involved! 
