@@ -3,7 +3,7 @@ name: Zafeiri Triantafyllio
 image: images/Lilia.png
 role: mclindent
 description: MClinDent Student
-status: active
+status: alumni
 
 links:
   email: triantafyllio.zafeiri@kcl.ac.uk
